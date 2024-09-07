@@ -1,3 +1,11 @@
+:root{
+    color-scheme: dark;
+}
+
+colgroup{
+    background-color: #a9a9a9;
+}
+
 body, html {
     margin: 0;
     padding: 0;
@@ -46,6 +54,7 @@ body, html {
     border-radius: 0;
     background-color: #e0e1e2;
     font-weight: bold;
+    color: black;
 }
 
 #alliance_toggle button.active {
@@ -175,6 +184,7 @@ body, html {
     margin: 0 1em;
     width: 17em;
     text-align: center;
+    color: white;
 }
 
 #navigate button, #table button {
